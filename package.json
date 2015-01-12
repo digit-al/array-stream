@@ -1,5 +1,5 @@
 {
-	"name": "array-stream",
+	"name": "afs",
 	"version": "1.0.0",
 	"description": "A set of streams for working with arrays",
 	"main": "index.js",
