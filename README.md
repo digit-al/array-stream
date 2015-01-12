@@ -1,4 +1,4 @@
-# array-stream
+# afs - array-functional-streams
 Allows arrays to be turned into a stream of objects and then run asynchronous map, filter, and reduce operations against them.
 
 The module exposes methods to create three types of stream:
