@@ -21,10 +21,10 @@
 		"email": "<alex@pandelon.co.uk>",
 		"url": "http://pandelon.co.uk"
 	},
-	"homepage": "https://github.com/pandelon-software/array-stream",
+	"homepage": "https://github.com/pandelon-software/afs",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/pandelon-software/array-stream.git"
+		"url": "https://github.com/pandelon-software/afs.git"
 	},
 	"keywords": ["array", "stream"],
 	"license": "ISC"
